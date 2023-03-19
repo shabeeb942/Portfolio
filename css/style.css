@@ -527,6 +527,9 @@ body.light hr.separator {
 /*================================================== */
 
 /*** Homepage ***/
+body{
+  overflow-y: hidden;
+}
 
 .home .color-block {
   position: fixed;
