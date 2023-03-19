@@ -1,10 +1,4 @@
-/*
-Template Name: Tunis - Personal Portfolio
-Author: celtano
-Author URI: http://themeforest.net/user/celtano
-Description: Tunis - Personal Portfolio
-Version: 1.0
-*/
+
 
 /*------------------------------------------------------------------
 [Table of contents]
@@ -544,7 +538,7 @@ body.light hr.separator {
 }
 
 .home .bg {
-  background-image: url(../img/2.jpg);
+  background-image: url(../img/shabeeb.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
